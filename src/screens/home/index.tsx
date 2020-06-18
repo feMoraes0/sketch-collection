@@ -1,8 +1,13 @@
 import React from 'react';
+import './style.css';
 
 const Home = () => {
   return (
-    <p>Hello World</p>
+    <main id='home'>
+      <form action='/'>
+        <input type="text" placeholder='Search a project...'/>
+      </form>
+    </main>
   );
 }
 

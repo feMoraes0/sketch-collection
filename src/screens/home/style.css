@@ -1,0 +1,29 @@
+#home {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+#home form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#home form input {
+  width: 60%;
+  padding: 13px;
+  border-radius: 5px;
+  border: none;
+  background-color: #F0F0F5;
+  font-size: 16px;
+}
+
+#home form input:focus {
+  outline: none;
+}
