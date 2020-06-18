@@ -16,4 +16,4 @@
 > Adicionar niveis (fácil, médio, dificil), e duração do projeto (curto, médio, longo)
 
 
-> adicionar recursos necessários como fontes e o .sketch para download
+> adicionar recursos necessários como fontes e o .sketch
