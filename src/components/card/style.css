@@ -24,7 +24,7 @@ div.card div.card-body {
   flex: 1;
   flex-direction: column;
   justify-content: space-between;
-  align-items: start;
+  align-items: flex-start;
   transition: background-color 1s;
 }
 

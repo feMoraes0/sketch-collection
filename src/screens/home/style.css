@@ -9,6 +9,17 @@
   padding-right: 10vw;
 }
 
+#home .background-image {
+  position: fixed;
+  width: 800px;
+  margin-top: 25vh;
+  margin-left: 25vw;
+  transform: rotate(-15deg);
+  z-index: -1;
+  opacity: 0.025;
+  overflow-y: none;
+}
+
 #home form {
   width: 100%;
   display: flex;
