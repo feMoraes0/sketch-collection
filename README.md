@@ -1,19 +1,18 @@
 <h1 align='center'>Clone Challenge</h1>
 
-> introdução
-
 # :dart: Objective
-> apresentar layouts clonaveis para todos os niveis visando praticar conhecimentos no desenvolvimento front-end web e mobile.
+Create a collection of all sketches that I had worked or I am working in. Each repository are with all necessary assets to complete the project.
 
-# :+1: Recomendations
-> outros repositorios que podem ser usados para propositos similares
-> ex.: app-ideas
+<!-- # :+1: Recomendations -->
+<!-- > outros repositorios que podem ser usados para propositos similares -->
+<!-- > ex.: app-ideas -->
 
-# :warning: How to use
-> explicar como usar o figma para extrair os dados e exportar imagens
+<!-- # :warning: How to use -->
+<!-- > explicar como usar o figma para extrair os dados e exportar imagens -->
 
-# :open_file_folder: Challenges
-> Adicionar niveis (fácil, médio, dificil), e duração do projeto (curto, médio, longo)
+<!-- # :open_file_folder: Challenges -->
+<!-- > Adicionar niveis (fácil, médio, dificil), e duração do projeto (curto, médio, longo) -->
 
-
-> adicionar recursos necessários como fontes e o .sketch para download
+# :mailbox: Contact
+  - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
+  - <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">E-mail</a>
