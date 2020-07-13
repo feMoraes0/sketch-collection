@@ -18,8 +18,11 @@ $ git clone https://github.com/feMoraes0/clone-challenge.git
 $ cd framer-playground
 ```
 
-<!-- # :open_file_folder: Challenges -->
-<!-- > Adicionar niveis (fácil, médio, dificil), e duração do projeto (curto, médio, longo) -->
+## :open_file_folder: Projects
+| Name | Type | Directory | Website | Designer |
+| -----|------|-----------|---------|----------|
+| WWDC20 Landing Page | Web & Mobile | [Directory](https://github.com/feMoraes0/clone-challenge/wwwdc-20-landing-page) | [Website](https://www.sketchappsources.com/free-source/4484-apple-developer-wwdc20-landing-page-sketch-freebie-resource.html) | [Musavvir Ahmed](https://dribbble.com/musavvir) |
+
 
 ## :mailbox: Contact
   - <a target="_blank" href="https://www.linkedin.com/in/fernando-moraes-48a26916a/">LinkedIn</a>
