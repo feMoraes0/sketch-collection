@@ -6,8 +6,9 @@ Create a collection of web and mobile free sketches (with all complementary file
 ## :open_file_folder: Projects
 | Name | Type | Directory | Website | Designer |
 | -----|------|-----------|---------|----------|
-| WWDC20 Landing Page | Web & Mobile | [Directory](https://github.com/feMoraes0/sketch-collection/tree/master/wwdc20-landing-page) | [Website](https://www.sketchappsources.com/free-source/4484-apple-developer-wwdc20-landing-page-sketch-freebie-resource.html) | [Musavvir Ahmed](https://dribbble.com/musavvir) |
 | Plants App | Mobile | [Directory](https://github.com/feMoraes0/sketch-collection/tree/master/plants-app) | [Website](https://www.uistore.design/items/plants-app-concept/) | [Vlad Fedoseyev](https://dribbble.com/vladfedoseyev?ref=uistore.design) |
+| Small Music App | Mobile | [Directory](https://github.com/feMoraes0/sketch-collection/tree/master/small-music-app) | [Website](https://www.sketchappsources.com/free-source/3634-music-app-concept-sketch-freebie-resource.html) | [Manoj Bhadana](https://dribbble.com/manoj_bhadana) |
+| WWDC20 Landing Page | Web & Mobile | [Directory](https://github.com/feMoraes0/sketch-collection/tree/master/wwdc20-landing-page) | [Website](https://www.sketchappsources.com/free-source/4484-apple-developer-wwdc20-landing-page-sketch-freebie-resource.html) | [Musavvir Ahmed](https://dribbble.com/musavvir) |
 
 ## :warning: How to use
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Figma](https://www.figma.com/login) installed on your computer. From your command line:
