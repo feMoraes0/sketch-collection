@@ -1,12 +1,12 @@
-<h1 align='center'>Clone Challenge</h1>
+<h1 align='center'>Sketch Collection</h1>
 
 ## :dart: Objective
-`Create a collection of web and mobile designs (with all complementary files - assets) to turn the programmer's life easier to practise front-end skills or how to work with design files (.figma, .sketch, etc...).`
+Create a collection of web and mobile free sketches (with all complementary files - assets) to turn the programmer's life easier to practise front-end skills or how to work with design files (.figma, .sketch, etc...).
 
 ## :open_file_folder: Projects
 | Name | Type | Directory | Website | Designer |
 | -----|------|-----------|---------|----------|
-| WWDC20 Landing Page | Web & Mobile | [Directory](https://github.com/feMoraes0/clone-challenge/tree/master/wwdc20-landing-page) | [Website](https://www.sketchappsources.com/free-source/4484-apple-developer-wwdc20-landing-page-sketch-freebie-resource.html) | [Musavvir Ahmed](https://dribbble.com/musavvir) |
+| WWDC20 Landing Page | Web & Mobile | [Directory](https://github.com/feMoraes0/sketch-collection/tree/master/wwdc20-landing-page) | [Website](https://www.sketchappsources.com/free-source/4484-apple-developer-wwdc20-landing-page-sketch-freebie-resource.html) | [Musavvir Ahmed](https://dribbble.com/musavvir) |
 
 
 ## :warning: How to use
@@ -14,10 +14,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/feMoraes0/clone-challenge.git
+$ git clone https://github.com/feMoraes0/sketch-collection.git
 
 # Go into the repository
-$ cd framer-playground
+$ cd sketch-collection
 ```
 
 ## :+1: Recomendations
