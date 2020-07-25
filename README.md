@@ -1,7 +1,7 @@
 <h1 align='center'>Sketch Collection</h1>
 
 ## :dart: Objective
-<p align='center'>Group web and mobile free `sketches` (with all complementary files - `assets`) to turn the programmer's life easier to practise `front-end` skills or how to work with `design` files (.figma, .sketch, etc...).</p>
+<p align='center'>Group web and mobile free sketches (with all complementary files - assets) to turn the programmer's life easier to practise front-end skills or how to work with design files (.figma, .sketch, etc...).</p>
 
 ## :open_file_folder: Projects
 | Name | Type | Directory | Website | Designer |
